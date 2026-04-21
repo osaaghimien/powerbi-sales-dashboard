@@ -67,5 +67,3 @@ SQL | Power BI | Data Modeling | Data Analysis | DAX
 * The role of data visualization in communicating risk and performance
 * How targeted interventions can be informed through data-driven analysis
 
-👉 turn this into a **top-tier storytelling version (interview-ready)**
-👉 or align it exactly with your **dashboard visuals for maximum impact**
